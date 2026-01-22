@@ -1,6 +1,6 @@
 # Risk Analysis and Management
 
-This section outlines the major risks that could affect the successful completion of the financial education web application. It identifies threats related to schedule, budget, technical implementation, user adoption, and compliance, along with assumptions, constraints, and mitigation strategies. The app is intended to be a free educational resource, with potential optional monetization features (ads or premium content) considered in the future.
+This section outlines the major risks that could affect the successful completion of the financial education web application. It identifies threats related to schedule, budget, technical implementation, and compliance. It also includes assumptions, constraints, and mitigation strategies. The app is intended to be a free educational resource, with potential optional monetization features (ads or premium content) considered in the future.
 
 ## 1. Identification of Major Risks
 
@@ -53,3 +53,4 @@ This section outlines the major risks that could affect the successful completio
 - Temporarily disable non-critical features to maintain project timeline.
 - Iterate content or dashboards based on user feedback if engagement is low.
 - Adjust privacy policies or disclaimers if compliance concerns arise.
+

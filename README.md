@@ -2,6 +2,7 @@
 ## Project Name
 <div align="center">
 
+### Contributors
 [Saif Alhasan Sahib](https://github.com/SaifAlhasan), [Emily Kim](https://github.com/emnkim), [Jacob Arquiza](https://github.com/jacobArquiza), [Peter Wong](https://github.com/pwong520), [Aayam Baidya](https://github.com/aspect04)
 
 

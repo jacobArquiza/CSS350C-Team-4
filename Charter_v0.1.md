@@ -1,5 +1,13 @@
 # *App Name* Project Charter
 
+<!-- 
+
+RISK ANALYSIS AND MANAGEMENT
+
+AUTHORED BY: JACOB ARQUIZA
+
+-->
+
 ## Statement of Work
 
 ### Product Description
@@ -40,6 +48,15 @@ The monitization strategy for **app name** is comprised of two key parts: Advert
 > -  AI insight to answers they got incorrect.  
 >
 > Subscription fees would be priced at **$x/mo**.
+
+</br>
+<!-- 
+
+RISK ANALYSIS AND MANAGEMENT
+
+AUTHORED BY: EMILY KIM
+
+-->
 
 ## Risk Analysis and Management
 

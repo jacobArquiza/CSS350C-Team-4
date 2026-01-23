@@ -68,6 +68,38 @@ AUTHORED BY: AAYAM BAIDYA
 
 </bn>
 
+# Scheduling
+
+```mermaid
+%%{init: { 'gantt': { 'tickInterval': '1w', 'startDate': '2026-02-18'} } }%%
+gantt
+
+    title CSS 350: Finance Education Site - Phase 1
+    dateFormat  YYYY-MM-DD
+    axisFormat  %m/%d
+    
+    
+
+    Section 1. Planning & Research
+    Requirements & User Personas    :active, p1, 2026-02-18, 5d
+    Functional Requirements List    :p2, after p1, 3d
+    System Context Diagram          :p3, after p2, 3d
+    
+    Section 2. Design & UX
+    Wireframing (Home/Lessons)      :d1, 2026-02-25, 6d
+    Database Schema Design          :d2, after d1, 3d
+    Finance Content Outline         :d3, 2026-03-01, 5d
+
+    Section 3. Development Shell
+    Repo Setup & Boilerplate        :s1, 2026-03-04, 3d
+    Core Shell & Navbar             :s2, after s1, 4d
+    Interest Calculator Logic       :s3, after s2, 5d
+
+    Section 4. QA & Submission
+    Unit Testing Setup              :q1, 2026-03-12, 5d
+    Phase 1 Documentation Review    :milestone, 2026-03-17, 0d
+```
+
 <!-- 
 
 BUDGET

@@ -49,6 +49,77 @@ The monitization strategy for **app name** is comprised of two key parts: Advert
 >
 > Subscription fees would be priced at **$x/mo**.
 
+
+<!-- 
+
+SCHEDULE
+
+AUTHORED BY: AAYAM BAIDYA
+
+-->
+
+</bn>
+
+<!-- 
+
+BUDGET
+
+AUTHORED BY: SAIF ALHASAN SAHIB
+
+-->
+
+</bn>
+
+## High-Level Project Budget Spreadsheet 
+**[Source Excel Sheet](./Budget%20CSS350.xlsx)**
+
+#### Project:
+> **APP NAME**  
+
+#### Audience:
+> Young, First-Time Investors  
+
+#### Budget Level:   
+> High-Level Financial Baseline Estimate  
+
+
+| WBS ID | WBS Category                 | Cost Type | Description                                   | One-Time Cost (CapEx) | Monthly Cost (OpEx) | Annual Cost (OpEx) |
+|--------|------------------------------|-----------|-----------------------------------------------|-----------------------|---------------------|--------------------|
+| 1      | Product Development          | CapEx     | Core web app development (frontend & backend) | $35,000               | —                   | —                  |
+| 2      | Design & UX                  | CapEx     | UI/UX research, prototyping, accessibility    | $8,000                | —                   | —                  |
+| 3      | Content Creation             | CapEx     | Initial educational content (videos, lessons) | $12,000               | —                   | —                  |
+| 4      | Infrastructure Setup         | CapEx     | Cloud setup, security, deployment             | $5,000                | —                   | —                  |
+| 5      | Hosting & Cloud Services     | OpEx      | Servers, storage, bandwidth                   | —                     | $600                | $7,200             |
+| 6      | Maintenance & Updates        | OpEx      | Bug fixes, feature enhancements               | —                     | $1,200              | $14,400            |
+| 7      | Content Updates & Moderation | OpEx      | Ongoing educational updates                   | —                     | $800                | $9,600             |
+| 8      | Support & Administration     | OpEx      | User support, admin tasks                     | —                     | $500                | $6,000             |
+| 9      | Marketing & Outreach         | OpEx      | User acquisition & branding                   | —                     | $900                | $10,800            |
+
+## Budget Totals
+| Category | Amount | 
+| :--- | :--- | 
+| Total Startup / Capital Expenses (CapEx) | $60,000 | 
+| Total Annual Operating Expenses (OpEx) | $48,000 | 
+| **Year 1 Total Budget** | **$108,000** | 
+
+## Hard Budget Constraints
+| Constraint Type | Limit |
+| :--- | :--- |
+| Maximum CapEx | $65,000 |
+| Maximum Annual OpEx | $50,000 |
+| Infrastructure Strategy | Cloud-based, scalable |
+| Cost Control Measure | Open-source tools where possible |
+
+<!-- 
+
+MARKET AND CUSTOMER ANALYSIS
+
+AUTHORED BY: PETER WONG
+
+-->
+
+</bn>
+
 <!-- 
 
 RISK ANALYSIS AND MANAGEMENT
@@ -58,7 +129,6 @@ AUTHORED BY: EMILY KIM
 -->
 
 </br>
-
 
 ## Risk Analysis and Management
 
@@ -115,44 +185,3 @@ This section outlines the major risks that could affect the successful completio
 - Temporarily disable non-critical features to maintain project timeline.
 - Iterate content or dashboards based on user feedback if engagement is low.
 - Adjust privacy policies or disclaimers if compliance concerns arise.
-
-
-## High-Level Project Budget Spreadsheet 
-**[Source Excel Sheet](./~$Budget%20CSS350.xlsx)**
-
-#### Project:
-> **APP NAME**  
-
-#### Audience:
-> Young, First-Time Investors  
-
-#### Budget Level:   
-> High-Level Financial Baseline Estimate  
-
-
-| WBS ID | WBS Category                 | Cost Type | Description                                   | One-Time Cost (CapEx) | Monthly Cost (OpEx) | Annual Cost (OpEx) |
-|--------|------------------------------|-----------|-----------------------------------------------|-----------------------|---------------------|--------------------|
-| 1      | Product Development          | CapEx     | Core web app development (frontend & backend) | $35,000               | —                   | —                  |
-| 2      | Design & UX                  | CapEx     | UI/UX research, prototyping, accessibility    | $8,000                | —                   | —                  |
-| 3      | Content Creation             | CapEx     | Initial educational content (videos, lessons) | $12,000               | —                   | —                  |
-| 4      | Infrastructure Setup         | CapEx     | Cloud setup, security, deployment             | $5,000                | —                   | —                  |
-| 5      | Hosting & Cloud Services     | OpEx      | Servers, storage, bandwidth                   | —                     | $600                | $7,200             |
-| 6      | Maintenance & Updates        | OpEx      | Bug fixes, feature enhancements               | —                     | $1,200              | $14,400            |
-| 7      | Content Updates & Moderation | OpEx      | Ongoing educational updates                   | —                     | $800                | $9,600             |
-| 8      | Support & Administration     | OpEx      | User support, admin tasks                     | —                     | $500                | $6,000             |
-| 9      | Marketing & Outreach         | OpEx      | User acquisition & branding                   | —                     | $900                | $10,800            |
-
-## Budget Totals
-| Category | Amount | 
-| :--- | :--- | 
-| Total Startup / Capital Expenses (CapEx) | $60,000 | 
-| Total Annual Operating Expenses (OpEx) | $48,000 | 
-| **Year 1 Total Budget** | **$108,000** | 
-
-## Hard Budget Constraints
-| Constraint Type | Limit |
-| :--- | :--- |
-| Maximum CapEx | $65,000 |
-| Maximum Annual OpEx | $50,000 |
-| Infrastructure Strategy | Cloud-based, scalable |
-| Cost Control Measure | Open-source tools where possible |

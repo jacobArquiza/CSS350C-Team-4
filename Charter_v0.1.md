@@ -69,7 +69,7 @@ AUTHORED BY: AAYAM BAIDYA
 
 </bn>
 
-# Scheduling
+## Scheduling
 
 ```mermaid
 %%{init: { 'gantt': { 'tickInterval': '1w', 'startDate': '2026-02-18'} } }%%

@@ -21,6 +21,14 @@ Through lessons on financial literacy geared towards those without prior financi
 > - **Application** of knowledge to simulated real-world scenarios
 
 ### Estimated Cost
+The total estimated budget for the first year of operation is $108,000, which remains within the defined hard budget constraints of the project. The costs are divided into capital expenses and operational requirements
+
+#### Cost Preview
+| Category | Amount | 
+| :--- | :--- | 
+| Total Startup / Capital Expenses (CapEx) | $60,000 | 
+| Total Annual Operating Expenses (OpEx) | $48,000 | 
+| **Year 1 Total Budget** | **$108,000** | 
 
 ### Estimated Launch Date
 
@@ -95,20 +103,23 @@ AUTHORED BY: SAIF ALHASAN SAHIB
 | 8      | Support & Administration     | OpEx      | User support, admin tasks                     | —                     | $500                | $6,000             |
 | 9      | Marketing & Outreach         | OpEx      | User acquisition & branding                   | —                     | $900                | $10,800            |
 
-## Budget Totals
+
+### Budget Totals
 | Category | Amount | 
 | :--- | :--- | 
 | Total Startup / Capital Expenses (CapEx) | $60,000 | 
 | Total Annual Operating Expenses (OpEx) | $48,000 | 
 | **Year 1 Total Budget** | **$108,000** | 
 
-## Hard Budget Constraints
+### Hard Budget Constraints
 | Constraint Type | Limit |
 | :--- | :--- |
 | Maximum CapEx | $65,000 |
 | Maximum Annual OpEx | $50,000 |
 | Infrastructure Strategy | Cloud-based, scalable |
 | Cost Control Measure | Open-source tools where possible |
+
+
 
 <!-- 
 

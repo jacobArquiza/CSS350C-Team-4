@@ -172,15 +172,15 @@ AUTHORED BY: PETER WONG
 
 The finance learning application will address four business needs, each justifying the initial investment of $108,000:
 
-### Market Demand: 
+- #### Market Demand: 
 
 The global personal finance education market was valued at $1.47 billion in 2024 and may reach $2.89 billion by 2033, according to Growthmarketreports, nearly doubling in size. Currently, US adults answer only about half (49%) of basic financial questions correctly, showing a significant knowledge gap.
 
-### Social Need: 
+- #### Social Need: 
 
 A lack of financial knowledge costs Americans more than $246 billion each year, according to the National Financial Educators Council. Young people aged 18-29 scored the worst on financial literacy tests, answering only 38% of questions correctly, making them the most at-risk group.
 
-### Customer Request: 
+- #### Customer Request: 
 
 When young adults aged 18-24 were asked which high school course would help them most in life, over half (51.4%) said "money management," according to the National Financial Educators Council. Nearly half of all Americans (47%) rate their personal finance knowledge as a "C" or lower, according to WalletHub, suggesting an apparent demand for better education.
 Technological Advance: The mobile financial education app market is growing rapidly at 24% per year and is expected to reach $1.5 billion by 2025, according to CUInsight. Applications and interactive learning provide better results than traditional textbooks or classroom lectures.
@@ -193,9 +193,8 @@ English-speaking young adults aged 18-28 who have recently started earning money
 
 ### Market Size: 
 
-In North America alone, the personal finance education market reached $520 million in 2024, according to Growthmarketreports. Young adults under 50 are much less likely than older adults to say they understand personal finances, according to the Pew Research Center, representing millions of potential users who need help.
-
-Competitive Advantage: Our app will provide free education with an easy, complete step-by-step plan designed for total beginners, real-world practice scenarios, and focus solely on teaching without trying to sell investment products.
+- In North America alone, the personal finance education market reached $520 million in 2024, according to Growthmarketreports. Young adults under 50 are much less likely than older adults to say they understand personal finances, according to the Pew Research Center, representing millions of potential users who need help.
+- Competitive Advantage: Our app will provide free education with an easy, complete step-by-step plan designed for total beginners, real-world practice scenarios, and focus solely on teaching without trying to sell investment products.
 
 ### Cost Analysis Summary
 Year 1 has a budget of $108,000 ($60,000 startup costs, $48,000 yearly operating costs). We should be expecting 25,000 users in Year 1 with 5% buying premium features (1,250 subscribers at $10/month = $150,000) plus ad income ($2.50/user = $62,500) totaling $212,500 revenue, nearly doubling the investment. The cost to acquire each new user ($0.43) is much lower than typical app acquisition costs ($20-100).
@@ -266,6 +265,7 @@ This section outlines the major risks that could affect the successful completio
 - Temporarily disable non-critical features to maintain project timeline.
 - Iterate content or dashboards based on user feedback if engagement is low.
 - Adjust privacy policies or disclaimers if compliance concerns arise.
+
 
 
 

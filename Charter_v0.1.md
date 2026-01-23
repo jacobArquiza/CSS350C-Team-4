@@ -164,7 +164,7 @@ AUTHORED BY: PETER WONG
 
 </bn>
 
-#### Market and Customer Analysis
+### Market and Customer Analysis
 
 ## Business Case
 
@@ -183,11 +183,15 @@ A lack of financial knowledge costs Americans more than $246 billion each year, 
 When young adults aged 18-24 were asked which high school course would help them most in life, over half (51.4%) said "money management," according to the National Financial Educators Council. Nearly half of all Americans (47%) rate their personal finance knowledge as a "C" or lower, according to WalletHub, suggesting an apparent demand for better education.
 Technological Advance: The mobile financial education app market is growing rapidly at 24% per year and is expected to reach $1.5 billion by 2025, according to CUInsight. Applications and interactive learning provide better results than traditional textbooks or classroom lectures.
 
-## Market Analysis
+### Market Analysis
 
-## Target Market: English-speaking young adults aged 18-28 who have recently started earning money but never learned about finances in school and want to begin investing.
+## Target Market: 
 
-## Market Size: In North America alone, the personal finance education market reached $520 million in 2024, according to Growthmarketreports. Young adults under 50 are much less likely than older adults to say they understand personal finances, according to the Pew Research Center, representing millions of potential users who need help.
+English-speaking young adults aged 18-28 who have recently started earning money but never learned about finances in school and want to begin investing.
+
+## Market Size: 
+
+In North America alone, the personal finance education market reached $520 million in 2024, according to Growthmarketreports. Young adults under 50 are much less likely than older adults to say they understand personal finances, according to the Pew Research Center, representing millions of potential users who need help.
 
 Competitors:
 •	Investopedia Academy ($199-299/course): Expensive and requires upfront payment for courses
@@ -301,6 +305,7 @@ This section outlines the major risks that could affect the successful completio
 - Temporarily disable non-critical features to maintain project timeline.
 - Iterate content or dashboards based on user feedback if engagement is low.
 - Adjust privacy policies or disclaimers if compliance concerns arise.
+
 
 
 

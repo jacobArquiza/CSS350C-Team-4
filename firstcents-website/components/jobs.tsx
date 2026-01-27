@@ -1,5 +1,7 @@
 "use client"
+
 import { useState } from 'react';
+import Link from "next/link"
 
 enum kDiscipline {
     engineering, product, support, marketing_and_communications, business, design_and_creative,
@@ -76,12 +78,18 @@ export default function JobsList ({ jobs }: ListProps) {
                     <p className="text-right">Showing {filteredJobs.length} of {jobs.length} Jobs</p>
                     <ul className="space-y-4">
                         {filteredJobs.map((job) => (
-                            <li key={job.id} className="p-4 border rounded-lg hover:bg-gray-50">
-                            <h3><strong>[{job.year}] [{kEmploymentTypeArray[job.employmentType]}]</strong> {job.title}</h3>
-                            <div className="flex flex-row justify-between">
-                                <p className="text-sm text-gray-600">{kDisciplineArray[job.discipline]}</p>
-                                <p className="text-sm text-gray-600">{job.location}</p>
-                            </div>
+                            <li key={job.id}>
+                                <Link 
+                                    href={`/careers/jobs/${job.id}`} 
+                                    className="block p-4 border rounded-lg hover:bg-gray-50 transition"
+                                >
+                                    <h3><strong>[{job.year}] [{kEmploymentTypeArray[job.employmentType]}]</strong> {job.title}</h3>
+                                    <div className="flex flex-row justify-between">
+                                        <p className="text-sm text-gray-600">{kDisciplineArray[job.discipline]}</p>
+                                        <p className="text-sm text-gray-600">{job.location}</p>
+                                    </div>
+                                    <p className="text-xs text-gray-500 font-bold">JOB ID: {job.id}</p>
+                                </Link>
                             </li>
                         ))}
                     </ul>

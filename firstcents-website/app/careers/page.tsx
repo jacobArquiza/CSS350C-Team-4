@@ -21,7 +21,7 @@ enum kEmploymentType {
 
 const jobs = [
     {
-        id: 1,
+        id: 1001,
         title:"Marketing Intern",
         location:"Bothell, WA",
         year:"2026",
@@ -29,7 +29,7 @@ const jobs = [
         employmentType: kEmploymentType.internship,
     },
     {
-        id: 2,
+        id: 1002,
         title:"Marketing Consultant",
         location:"Bothell, WA",
         year:"2026",

@@ -28,7 +28,7 @@ const members = [
     {
         name: 'Saif Alhasan Sahib',
         role: 'Co-Founder - Software Engineer',
-        avatar: './saif.png',
+        avatar: './saif.jpg',
         link: '#',
         paragraph: 'Saif is a senior at the University of Washington Bothell, pursuing a Bachelors in Computer Science and Business Management. He is interested in Tech Sales and financial platforms aimed at first-time investors.',
     },
